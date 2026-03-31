@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "92c7314a7497653d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8a51359bff8f07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6dd4b3575cf1df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "software designer book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "software designer book"
+            }
+          },
+          {
+            "id": "78b0c3cdd3bc8dbd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "software designer book.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "software designer book"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9eaea1bf5198b68c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcad47297c4a92e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30ab1cd712b9f59a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "a27bfb927a081bc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0c32e493d7ea5702",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1569cdd9571726c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "359025d4e23efa6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477c71733d2b7198",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "software designer book.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "software designer book 的反向链接列表"
+            }
+          },
+          {
+            "id": "3cad1fe0001d13e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "software designer book.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "software designer book 的出链列表"
+            }
+          },
+          {
+            "id": "12b3a58935b1cd6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3e0c1896049cff7c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "86b49722009ea544",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "software designer book.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "software designer book 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "30ab1cd712b9f59a",
+  "lastOpenFiles": [
+    "software designer.md",
+    "software designer book.pdf"
+  ]
+}
